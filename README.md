@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alewsxx.alewsxx" />
-  <a href="https://github.com/yopzman"><img src="https://img.shields.io/github/followers/tfkhdyt?label=yopzman&style=social"/></a>
+  <a href="https://github.com/alewsxx"><img src="https://img.shields.io/github/followers/tfkhdyt?label=alewsxx&style=social"/></a>
 </p>
 
 ### SQL & Backend Enthusiast
