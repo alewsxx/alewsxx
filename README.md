@@ -32,7 +32,7 @@
 <span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" title="Tailwind CSS" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="30" title="GNU/Linux" />
-  <img src="images/icons/mongo.svg" height="30" title="MongoDB" />
+  <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" height="30" title="MongoDB" />
   <img src="https://www.silicon.de/wp-content/uploads/2014/12/MariaDB-reflex-blue-seal-blue-lettering-below-600px.png" height="30" title="MariaDB" />
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" title="PostgreSQL" />
   <img src="https://w7.pngwing.com/pngs/916/783/png-transparent-oracle-corporation-logo-computer-software-marketing-oracle-vm-server-for-sparc-glass-teapot.png" height="30" title="Oracle" />
