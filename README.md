@@ -1,5 +1,3 @@
-# [![yopzman's header](./images/yopzman-banner.jpg)](https://yopzman.my.id/)
-
 <p align=center>
   </a>&nbsp;
   </a>&nbsp;
@@ -67,7 +65,7 @@
 ### Stats 📋
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yopzman&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yopzman&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yopzman&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alewsxx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alewsxx&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alewsxx&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
 </p>
