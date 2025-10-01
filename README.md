@@ -30,24 +30,23 @@
 ### Tech Stack 👨🏻‍💻
 
 <span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" title="JavaScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" title="Tailwind CSS" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="30" title="GNU/Linux" />
   <img src="images/icons/mongo.svg" height="30" title="MongoDB" />
   <img src="https://www.silicon.de/wp-content/uploads/2014/12/MariaDB-reflex-blue-seal-blue-lettering-below-600px.png" height="30" title="MariaDB" />
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" title="PostgreSQL" />
-  <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" height="30" title="Docker" />
   <img src="https://w7.pngwing.com/pngs/916/783/png-transparent-oracle-corporation-logo-computer-software-marketing-oracle-vm-server-for-sparc-glass-teapot.png" height="30" title="Oracle" />
+  
 </span>
 
 ### Basic Experience 📖
 
 <span>
-  <img src="images/icons/jquery.svg" height="30" title="jQuery" />
-  <img src="https://raw.githubusercontent.com/tfkhdyt/web-portfolio/main/public/icons/java.svg" height="30" title="Java" />
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Symbol.png" height="30" title="Java" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30" title="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="30" title="PHP" />
-  <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" height="30" title="Go" />
+  <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" height="30" title="Laravel" />
+  
 </span>
 
 ### Equipment 🧰
